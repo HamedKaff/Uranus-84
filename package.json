@@ -2,15 +2,30 @@
   "name": "uranus-dark-theme",
   "displayName": "Uranus '84",
   "description": "Uranus '84 !!",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "HamedKaff",
   "repository": {
     "type": "git",
     "url": "https://github.com/HamedKaff/Uranus-84.git"
   },
   "keywords": [
-    "theme", "themes", "Dark", "HamedKaff", "Kaff", "Hamed", "Uranus", "Neptone", "Winter is Coming", 
-    "Ice", "Blue", "Material", "Ocean", "84", "'84", "Uranus '84", "Uranus Dark Theme"
+    "theme",
+    "themes",
+    "Dark",
+    "HamedKaff",
+    "Kaff",
+    "Hamed",
+    "Uranus",
+    "Neptone",
+    "Winter is Coming",
+    "Ice",
+    "Blue",
+    "Material",
+    "Ocean",
+    "84",
+    "'84",
+    "Uranus '84",
+    "Uranus Dark Theme"
   ],
   "engines": {
     "vscode": "^1.83.0"

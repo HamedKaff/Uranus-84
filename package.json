@@ -1,0 +1,21 @@
+{
+  "name": "uranus-dark-theme",
+  "displayName": "Uranus Dark Theme",
+  "description": "Uranus Dark Theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Uranus '84",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Uranus '84-color-theme.json"
+      }
+    ]
+  }
+}

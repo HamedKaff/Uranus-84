@@ -3,13 +3,12 @@
   "icon": "group1f.png",
   "displayName": "Uranus '84",
   "description": "Uranus '84 !!",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "HamedKaff",
   "repository": {
     "type": "git",
     "url": "https://github.com/HamedKaff/Uranus-84.git"
   },
-
   "engines": {
     "vscode": "^1.83.0"
   },

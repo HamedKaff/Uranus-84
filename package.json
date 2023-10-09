@@ -1,9 +1,9 @@
 {
   "name": "uranus-dark-theme",
-  "icon": "group1f.png",
+  "icon": "uranusfinallogo.png",
   "displayName": "Uranus '84",
   "description": "Uranus '84 !!",
-  "version": "0.3.0",
+  "version": "0.2.0",
   "publisher": "HamedKaff",
   "repository": {
     "type": "git",

@@ -2,8 +2,11 @@
   "name": "uranus-dark-theme",
   "icon": "uranusfinallogo.png",
   "displayName": "Uranus '84",
-  "description": "Uranus '84 !!",
-  "version": "0.4.0",
+  "description": "Uranus '84 Dark Theme",
+  "keywords": [
+   "color-theme", "theme", "dark", "Uranus", "themes", "react", "vscode", "javascript"
+  ],
+  "version": "0.2.1",
   "publisher": "HamedKaff",
   "repository": {
     "type": "git",
